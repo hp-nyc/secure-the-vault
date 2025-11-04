@@ -1,7 +1,7 @@
-var code1 = 10;
+let code1 = 10;
 // console.log(code1);
 
-var code1 = 7 + 3;
+code1 = 7 + 3;
 // console.log(code1);
 
 let code2 = 100 / 2 - 10;
